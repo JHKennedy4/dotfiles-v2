@@ -1,0 +1,4 @@
+Bundle 'digitaltoad/vim-jade'
+Bundle 'Blackrush/vim-gocode'
+Bundle 'joonty/vdebug.git'
+Bundle 'Valloric/YouCompleteMe'

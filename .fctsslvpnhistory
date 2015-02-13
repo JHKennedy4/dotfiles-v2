@@ -1,0 +1,16 @@
+version=2
+proxyserver=
+proxyport=
+proxyuser=
+proxypasswdenc=Enc 420d2ee65abded897a69c50f4995397969f1c1f949055d8e51
+current=RocVPN
+keepalive=0
+autostart=0
+profile=RocVPN
+nocertwarnning=1
+p12passwdenc=Enc 420d2ee65abded897a69c50f4995397969f1c1f949055d8e51
+path=
+passwordenc=Enc 420d2ee65abded897a69c50f49954a01f11920558d7caef7c00eef9851128f2c41d2b30507ff
+user=jkennedy
+port=443
+server=https://roc-connect.bnservers.com
